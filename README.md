@@ -52,7 +52,7 @@ I managed to get the average measurement for each activity and for each subject 
 However, looking at the table I computed (wide format),I feel like it is a little bit messy though it is very concise as well. 
 What I did next is to use melt function to melt down the table. It still gave the exact same data but in a much longer form.
 
-The reason I prefer this over the wide form is that I believe the goal of tidy data, as Hadley Wickham stated, prepare data for the next step of processing.Making it easier to understand and process,therefore is the priority.
+The reason I prefer this over the wide form is that I believe the goal of tidy data, as Hadley Wickham stated, is to prepare data for the next step of processing.Making it easier to understand and process,therefore is the priority.
 I think this also partially came down to personal preference. After all, it is just one more command line. 
  
 
